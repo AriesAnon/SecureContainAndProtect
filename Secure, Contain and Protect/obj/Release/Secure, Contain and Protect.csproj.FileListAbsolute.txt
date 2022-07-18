@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\bin\Release\Secure, Contain and Protect.exe.config
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\bin\Release\Secure, Contain and Protect.exe
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\bin\Release\Secure, Contain and Protect.pdb
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure, Contain and Protect.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure__Contain_and_Protect.Form1.resources
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure__Contain_and_Protect.Form2.resources
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure__Contain_and_Protect.Properties.Resources.resources
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure, Contain and Protect.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure, Contain and Protect.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure, Contain and Protect.exe
+C:\Users\maria\source\repos\Secure, Contain and Protect\Secure, Contain and Protect\obj\Release\Secure, Contain and Protect.pdb
